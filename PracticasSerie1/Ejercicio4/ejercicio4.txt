@@ -1,0 +1,12 @@
+Explique la diferencia entre los
+operadores de igualdad (==) y 
+de igualdad estricta
+(===)
+
+El operador de comparacion simple ,
+su funcion es comparar los dos valores que se demuestran,
+una caracteristica que hay es que 
+si los valores son numeros y el string es el mismo numero que se compara
+entonces devuelve devuelve esa comparacion un verdadero(true)
+
+En el caso de la comparacion estricta compara tanto los valores como el tipo de dato que tenemos
